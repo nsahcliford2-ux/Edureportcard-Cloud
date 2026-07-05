@@ -1,0 +1,13 @@
+screens/
+├── splash/
+├── login/
+├── dashboard/
+├── students/
+├── teachers/
+├── classes/
+├── subjects/
+├── results/
+├── attendance/
+├── fees/
+├── reports/
+└── settings/
